@@ -6,7 +6,9 @@ Services complémentaires : PHPMyAdmin / MailDev
 
 ## Installation  
   1. Cloner le dépôt git : 
-  `git clone https://github.com/ridha-boughediri/docker_tool_symfony.git` 
+  
+  `git clone https://github.com/ridha-boughediri/docker_tool_symfony.git`
+
 
   2. Dupliquer le fichier .env-sample et le renommer en .env : 
   `cd docker_tool_symfony` 
